@@ -1,0 +1,28 @@
+name: SETH BUITENDORP
+favicon: null
+layout_spectrum: 0.9165613320656121
+typography_spectrum: 0.31510381610132754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9681103641632944
+  lightness: 0.3459993335418403
+  saturation: 0.600787574891001
+  rhythmicContrast: 0.22801789757795632
+purpose: []
